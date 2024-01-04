@@ -5,7 +5,7 @@ I was also fortunate to intern/RA at MMLab@CUHK, Baidu, iQIYI, SenseTime, Samsun
 
 My current research interest includes Cross-Modal Learning and Video Understanding. I have published **20+** papers at the top international CV/AI conferences or journals such as **CVPR/ICCV/ECCV/AAAI/IJCAI/ACMMM/IJCV**.
 
-**I am actively looking for academic collaboration, feel free to drop me an email.**
+**I am actively looking for research internship position (US/AU) starting from 2024 Spring/Summer, feel free to drop me an email.**
 
 ### 📎 Homepages
 - Personal Pages: https://whwu95.github.io/ (Updated recently🔥)
