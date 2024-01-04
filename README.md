@@ -18,7 +18,14 @@ My current research interest includes **Cross-Modal Learning** and **Video Under
 
 <a href="https://github.com/whwu95"><img align="center" src="https://github-readme-stats.vercel.app/api?username=whwu95&show_icons=true&theme=ambient_gradient&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=ture" alt="whwu95's github stats" /></a> 
 
+### 🔭 Research Interest
 
+My research interests broadly lie in the areas of Computer Vision and Deep Learning, including:
+- Cross-Modal Learning (2022-Present): Video-Language Matching, Multimodal Large Language Model (MLLM)
+- Video Foundation Model (2017-Present): Temporal Modeling Module, Efficient Video Tuning, Efficient Video Inference
+- Video-related Applications (2017-Present): Action Recognition, Temporal Action Detection, Anomaly Detction in Video
+- Self-supervised Learning (2021-2022): Contrastive Video Learning, Masked Video Modeling
+- Low-level Vision (2021-2022): Image Colorization, Style Transfer, Image Rescaling
 
 
 ### 🔥 News
