@@ -1,4 +1,12 @@
-## Hi there 👋
+<!-- Greeting -->
+<h2><em> Hi, I'm Wenhao Wu :wave: </em></h2>
+
+<p> 
+<a href="https://whwu95.github.io"><img src="https://img.shields.io/badge/Wenhao%20Wu-Homepage-red?style=flat-square" height="25px" alt="Wenhao Wu"></a>
+<a href="https://www.zhihu.com/people/wu-wen-hao-80-23"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
+<a href="https://www.linkedin.com/in/wenhao-w-usyd/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=flat-square&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"></a>
+<a href="https://scholar.google.com/citations?user=Kn5d1ckAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="25px" alt="Google Scholar"></a>
+</p> 
 
 **Wenhao Wu (吴文灏🇨🇳)** is a Second-Year Ph.D. student in the School of Computer Science at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). I have a close collaboration with Department of Computer Vision Technology ([VIS](https://vis.baidu.com/)) at Baidu led by [Dr. Jingdong Wang (IEEE Fellow)](https://jingdongwang2017.github.io/). I received my M.S.E degree from Multimedia Laboratory ([MMLab@SIAT](http://mmlab.siat.ac.cn/)), [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Shifeng Chen](https://scholar.google.com/citations?user=6X77S3cAAAAJ&hl=en) and [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/).
 I was also fortunate to intern/RA at MMLab@CUHK, Baidu, iQIYI, SenseTime, Samsung Research and Chinese Academy of Sciences.
@@ -7,12 +15,10 @@ My current research interest includes **Cross-Modal Learning** and **Video Under
 
 **I am actively looking for research internship position (US/AU/Remote) starting from 2024 Spring/Summer. Additionally, I am open to academic collaborations. Please feel free to drop me an email.**
 
+<a href="https://github.com/whwu95"><img align="center" src="https://github-readme-stats.vercel.app/api?username=whwu95&show_icons=true&theme=ambient_gradient&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=ture" alt="whwu95's github stats" /></a> 
 
-### 📎 Homepages
-- Personal Pages: https://whwu95.github.io/ (Updated recently🔥)
-- Zhihu (知乎): https://www.zhihu.com/people/wu-wen-hao-80-23
-- Linkedin: https://www.linkedin.com/in/wenhao-w-usyd/
-- Google Scholar: https://scholar.google.com/citations?user=Kn5d1ckAAAAJ&hl=en
+
+
 
 ### 🔥 News
 - *2023.11*: We release [GPT4Vis](https://arxiv.org/abs/2311.15732)  [![](https://img.shields.io/github/stars/whwu95/GPT4Vis?color=success&logo=github)](https://github.com/whwu95/GPT4Vis), which provides a Quantitative Evaluation of GPT-4 for Visual Understanding across images, videos and point clouds, spinning on 16 popular datasets.
