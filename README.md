@@ -10,6 +10,7 @@ My current research interest includes **Cross-Modal Learning** and **Video Under
 
 ### 📎 Homepages
 - Personal Pages: https://whwu95.github.io/ (Updated recently🔥)
+- Zhihu (知乎): https://www.zhihu.com/people/wu-wen-hao-80-23
 - Linkedin: https://www.linkedin.com/in/wenhao-w-usyd/
 - Google Scholar: https://scholar.google.com/citations?user=Kn5d1ckAAAAJ&hl=en
 
