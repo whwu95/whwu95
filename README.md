@@ -6,6 +6,7 @@
 <a href="https://www.zhihu.com/people/wu-wen-hao-80-23"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 <a href="https://www.linkedin.com/in/wenhao-w-usyd/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=flat-square&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"></a>
 <a href="https://scholar.google.com/citations?user=Kn5d1ckAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="25px" alt="Google Scholar"></a>
+<a href="https://twitter.com/DrWenhaoWu"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" height="25px" alt="X"></a>
 </p> 
 
 **Wenhao Wu (吴文灏🇨🇳)** is a Second-Year Ph.D. student in the School of Computer Science at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). I have a close collaboration with Department of Computer Vision Technology ([VIS](https://vis.baidu.com/)) at Baidu led by [Dr. Jingdong Wang (IEEE Fellow)](https://jingdongwang2017.github.io/). I received my M.S.E degree from Multimedia Laboratory ([MMLab@SIAT](http://mmlab.siat.ac.cn/)), [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Shifeng Chen](https://scholar.google.com/citations?user=6X77S3cAAAAJ&hl=en) and [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/).
