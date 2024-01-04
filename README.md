@@ -3,7 +3,7 @@
 **Wenhao Wu (吴文灏🇨🇳)** is a Second-Year Ph.D. student in the School of Computer Science at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). I have a close collaboration with Department of Computer Vision Technology ([VIS](https://vis.baidu.com/)) at Baidu led by [Dr. Jingdong Wang (IEEE Fellow)](https://jingdongwang2017.github.io/). I received my M.S.E degree from Multimedia Laboratory ([MMLab@SIAT](http://mmlab.siat.ac.cn/)), [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Shifeng Chen](https://scholar.google.com/citations?user=6X77S3cAAAAJ&hl=en) and [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/).
 I was also fortunate to intern/RA at MMLab@CUHK, Baidu, iQIYI, SenseTime, Samsung Research and Chinese Academy of Sciences.
 
-My current research interest includes Cross-Modal Learning and Video Understanding. I have published **20+** papers at the top international CV/AI conferences or journals such as **CVPR/ICCV/ECCV/AAAI/IJCAI/ACMMM/IJCV**.
+My current research interest includes **Cross-Modal Learning** and **Video Understanding**. I have published **20+** papers at the top international CV/AI conferences or journals such as **CVPR/ICCV/ECCV/AAAI/IJCAI/ACMMM/IJCV**.
 
 **I am actively looking for research internship position (US/AU/Remote) starting from 2024 Spring/Summer. Additionally, I am open to academic collaborations. Please feel free to drop me an email.**
 
