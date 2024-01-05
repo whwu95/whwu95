@@ -4,6 +4,7 @@
 <p> 
 <a href="https://whwu95.github.io"><img src="https://img.shields.io/badge/Wenhao%20Wu-Homepage-red?style=flat-square" height="25px" alt="Wenhao Wu"></a>
 <a href="https://www.zhihu.com/people/wu-wen-hao-80-23"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
+<a href="https://github.com/whwu95"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="25px" alt="github"></a>
 <a href="https://www.linkedin.com/in/wenhao-w-usyd/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=flat-square&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"></a>
 <a href="https://scholar.google.com/citations?user=Kn5d1ckAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="25px" alt="Google Scholar"></a>
 <a href="https://twitter.com/DrWenhaoWu"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" height="25px" alt="X"></a>
