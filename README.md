@@ -17,7 +17,7 @@ My current research interest includes **Cross-Modal Learning** and **Video Under
 
 **I am actively looking for research internship position (US/AU/Remote) starting from 2024 Spring/Summer. Additionally, I am open to academic collaborations. Please feel free to drop me an email.**
 
-<a href="https://github.com/whwu95"><img align="center" src="https://github-readme-stats.vercel.app/api?username=whwu95&show_icons=true&theme=ambient_gradient&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=ture" alt="whwu95's github stats" /></a> 
+<a href="https://github.com/whwu95"><img align="center" src="https://github-readme-stats.vercel.app/api?username=whwu95&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=ture" alt="whwu95's github stats" /></a> 
 
 ### 🔭 Research Interest
 
