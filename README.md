@@ -21,12 +21,13 @@ My current research interest includes **Cross-Modal Learning** and **Video Under
 
 ### 🔭 Research Interest
 
-My research interests broadly lie in the areas of Computer Vision and Deep Learning, including:
-- Cross-Modal Learning (2022-Present): Video-Language Matching, Multimodal Large Language Model (MLLM)
-- Video Foundation Model (2017-Present): Temporal Modeling Module, Efficient Video Tuning, Efficient Video Inference
-- Video-related Applications (2017-Present): Action Recognition, Temporal Action Detection, Anomaly Detction in Video
+My research interests broadly lie in the areas of <b>Computer Vision</b> and <b>Deep Learning</b>, including:
+- <strong style="font-size:15px;color:#8aa371">Cross-Modal Learning</strong> (2022-Present): Video-Language Matching, Multimodal Large Language Model (MLLM)
+- <strong style="font-size:15px;color:#8aa371">Video Foundation Model</strong> (2017-Present): Temporal Modeling Module, Efficient Video Tuning, Efficient Video Inference
+- <strong style="font-size:15px;color:#8aa371">Video-related Applications</strong> (2017-Present): Action Recognition, Temporal Action Detection, Anomaly Detction in Video
 - Self-supervised Learning (2021-2022): Contrastive Video Learning, Masked Video Modeling
 - Low-level Vision (2021-2022): Image Colorization, Style Transfer, Image Rescaling
+
 
 
 ### 🔥 News
