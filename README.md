@@ -17,7 +17,7 @@ I am also honored to be a recipient of the 11th <a href="http://scholarship.baid
 
 My current research interest includes **Cross-Modal Learning** and **Video Understanding**. I have published **20+** papers at the top international CV/AI conferences or journals such as **CVPR/ICCV/ECCV/AAAI/IJCAI/ACMMM/IJCV**.
 
-**I am actively looking for research internship position (US/AU/Remote) starting from 2024 Spring/Summer. Additionally, I am open to academic collaborations. Please feel free to drop me an email.**
+ <!-- **I am actively looking for research internship position (US/AU/Remote) starting from 2024 Winter. Additionally, I am open to academic collaborations. Please feel free to drop me an email.** --> 
 
 
 ![Wenhao Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwu95&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=ture)
