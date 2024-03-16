@@ -10,7 +10,7 @@
 <a href="https://twitter.com/DrWenhaoWu"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" height="25px" alt="X"></a>
 </p> 
 
-**Wenhao Wu (吴文灏🇨🇳)** is a Second-Year Ph.D. student in the School of Computer Science at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). I have a close collaboration with Department of Computer Vision Technology ([VIS](https://vis.baidu.com/)) at Baidu led by [Dr. Jingdong Wang (IEEE Fellow)](https://jingdongwang2017.github.io/). I received my M.S.E degree from Multimedia Laboratory ([MMLab@SIAT](http://mmlab.siat.ac.cn/)), [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Shifeng Chen](https://scholar.google.com/citations?user=6X77S3cAAAAJ&hl=en) and [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/).
+**Wenhao Wu (吴文灏🇨🇳)** is a Ph.D. student in the School of Computer Science at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). I have a close collaboration with Department of Computer Vision Technology ([VIS](https://vis.baidu.com/)) at Baidu led by [Dr. Jingdong Wang (IEEE Fellow)](https://jingdongwang2017.github.io/). I received my M.S.E degree from Multimedia Laboratory ([MMLab@SIAT](http://mmlab.siat.ac.cn/)), [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Shifeng Chen](https://scholar.google.com/citations?user=6X77S3cAAAAJ&hl=en) and [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/).
 I was also fortunate to intern/RA at MMLab@CUHK, Baidu, iQIYI, SenseTime, Samsung Research and Chinese Academy of Sciences.
 I am honored to be awarded the 11th <a href="http://scholarship.baidu.com/home/index/index#banner"><b>Baidu Scholarship</b></a> (2023).
 
@@ -27,8 +27,8 @@ My current research interest includes **Cross-Modal Learning** and **Video Under
 
 My research interests broadly lie in the areas of <b>Computer Vision</b> and <b>Deep Learning</b>, including:
 - <strong style="font-size:15px;color:#8aa371">Cross-Modal Learning</strong> (2022-Present): Video-Language Matching, Multimodal Large Language Model (MLLM)
-- <strong style="font-size:15px;color:#8aa371">Video Foundation Model</strong> (2017-Present): Temporal Modeling Module, Efficient Video Tuning, Efficient Video Inference
-- <strong style="font-size:15px;color:#8aa371">Video-related Applications</strong> (2017-Present): Action Recognition, Temporal Action Detection, Anomaly Detction in Video
+- <strong style="font-size:15px;color:#8aa371">Video Foundation Model</strong> (2017-Present): Video Recognition, Efficient Video Tuning
+- Video-related Applications (2017-2022): Video Sampler, Temporal Action Detection, Anomaly Detction in Video
 - Self-supervised Learning (2021-2022): Contrastive Video Learning, Masked Video Modeling
 - Low-level Vision (2021-2022): Image Colorization, Style Transfer, Image Rescaling
 
