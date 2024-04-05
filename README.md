@@ -12,7 +12,7 @@
 
 **Wenhao Wu (吴文灏🇨🇳)** is a second-year Ph.D. student in the School of Computer Science at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). I have a close collaboration with Department of Computer Vision Technology ([VIS](https://vis.baidu.com/)) at Baidu led by [Dr. Jingdong Wang (IEEE Fellow)](https://jingdongwang2017.github.io/). I received my M.S.E degree from Multimedia Laboratory ([MMLab@SIAT](http://mmlab.siat.ac.cn/)), [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Shifeng Chen](https://scholar.google.com/citations?user=6X77S3cAAAAJ&hl=en) and [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/).
 I was also fortunate to intern/RA at MMLab@CUHK, Baidu, iQIYI, SenseTime, Samsung Research and Chinese Academy of Sciences.
-I am honored to be awarded the 11th <a href="http://scholarship.baidu.com/home/index/index#banner"><b>Baidu Scholarship</b></a> (2023).
+<!-- I am honored to be awarded the 11th <a href="http://scholarship.baidu.com/home/index/index#banner"><b>Baidu Scholarship</b></a> (2023). --> 
 
 
 My current research interest includes **Cross-Modal Learning** and **Video Understanding**. I have published **20+** papers at the top international CV/AI conferences or journals such as **CVPR/ICCV/ECCV/AAAI/IJCAI/ACMMM/IJCV**.
@@ -35,7 +35,7 @@ My research interests broadly lie in the areas of <b>Computer Vision</b> and <b>
 
 
 ### 🔥 News
-- *2024.01*: <em> I am honored to receive the 11th🎖<a href="http://scholarship.baidu.com/home/index/index#banner"><font color="Red"><b>Baidu Scholarship</b></font></a>🎖, a prestigious fellowship awarding <strong>200,000 RMB (about $30,000)</strong> to a select <strong>10 PhD students worldwide</strong> in Artificial Intelligence, selected from thousands of applicants.</em>
+<!--- *2024.01*: <em> I am honored to receive the 11th🎖<a href="http://scholarship.baidu.com/home/index/index#banner"><font color="Red"><b>Baidu Scholarship</b></font></a>🎖, a prestigious fellowship awarding <strong>200,000 RMB (about $30,000)</strong> to a select <strong>10 PhD students worldwide</strong> in Artificial Intelligence, selected from thousands of applicants.</em> --> 
 - *2023.11*: <em> We release <a href="https://arxiv.org/abs/2311.15732">GPT4Vis</a> <a href="https://github.com/whwu95/GPT4Vis"><img src="https://img.shields.io/github/stars/whwu95/GPT4Vis?color=success&logo=github"></a>, which provides a <strong>Quantitative Evaluation</strong> of GPT-4 for Visual Understanding across images, videos and point clouds, spinning on 16 popular datasets.</em>
 - *2023.11*: <em> We release <a href="https://arxiv.org/abs/2311.15769">Side4Video</a> <a href="https://github.com/HJYao00/Side4Video"><img src="https://img.shields.io/github/stars/HJYao00/Side4Video?color=success&logo=github"></a>, a Spatial-Temporal Side Network for <strong>Memory-Efficient</strong> Image-to-Video Transfer Learning, which significantly reduces the training memory cost for action recognition (↓75%) and text-video retrieval (↓30%).</em>
 - *2023.08*: <em> The extension of <a href="https://github.com/whwu95/Text4Vis">Text4Vis</a> <a href="https://github.com/whwu95/Text4Vis"><img src="https://img.shields.io/github/stars/whwu95/Text4Vis?color=success&logo=github"></a> has been accepted by <strong>IJCV</strong>.</em>
