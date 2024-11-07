@@ -15,7 +15,7 @@ I was also fortunate to intern/RA at MMLab@CUHK, Baidu, iQIYI, SenseTime, Samsun
 I am honored to be awarded the 11th <a href="http://scholarship.baidu.com/home/index/index#banner"><b>Baidu PhD Fellowship</b></a> (2023).
 
 
-My current research interest includes **Cross-Modal Learning** and **Video Understanding**. I have published **20+** papers at the top international CV/AI conferences or journals such as **CVPR/ICCV/ECCV/AAAI/IJCAI/ACMMM/TPAMI/IJCV**.
+My current research interest includes **Cross-Modal Learning** and **Video Understanding**. I have published **30+** papers at the top international CV/AI conferences or journals such as **CVPR/ICCV/ECCV/NeurIPS/AAAI/IJCAI/ACMMM/TPAMI/IJCV**.
 
  <!-- **I am actively looking for research internship position (US/AU/Remote) starting from 2024 Winter. Additionally, I am open to academic collaborations. Please feel free to drop me an email.** --> 
 
