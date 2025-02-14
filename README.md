@@ -35,7 +35,7 @@ My research interests broadly lie in the areas of <b>Computer Vision</b> and <b>
 
 
 ### 🔥 News
-- *2025.02*: Passed the PhD thesis defense! Waiting for the conferal.
+- *2025.02*: PhD thesis defense passed! Waiting for conferal in June.
 - *2024.09*: <em> [2/2] <a href="https://github.com/HJYao00/DenseConnector">Dense Connecter</a> and <a href="https://github.com/takomc/amp">AMP</a> are accepted by <strong>NeurIPS</strong> 2024! Dense Connector was cited by Apple MM1.5.
 - *2024.05*: <em> The extension of <a href="https://github.com/whwu95/Cap4Video">Cap4Video</a> <a href="https://github.com/whwu95/Cap4Video"><img src="https://img.shields.io/github/stars/whwu95/Cap4Video?color=success&logo=github"></a> has been accepted by <strong>TPAMI</strong>.</em>
 - *2024.01*: <em> I am honored to receive the 11th🎖<a href="http://scholarship.baidu.com/home/index/index#banner"><font color="Red"><b>Baidu Scholarship</b></font></a>🎖, a prestigious fellowship awarding <strong>200,000 RMB (about $30,000)</strong> to a select <strong>10 PhD students worldwide</strong> in Artificial Intelligence, selected from thousands of applicants.</em>
