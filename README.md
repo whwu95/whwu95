@@ -10,7 +10,7 @@
 <a href="https://twitter.com/DrWenhaoWu"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" height="25px" alt="X"></a>
 </p> 
 
-**Wenhao Wu (吴文灏🇨🇳)** is a Ph.D. student in the School of Computer Science at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). I have a close collaboration with Department of Computer Vision Technology ([VIS](https://vis.baidu.com/)) at Baidu led by [Dr. Jingdong Wang (IEEE Fellow)](https://jingdongwang2017.github.io/). I received my M.S.E degree from Multimedia Laboratory ([MMLab@SIAT](http://mmlab.siat.ac.cn/)), [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Shifeng Chen](https://scholar.google.com/citations?user=6X77S3cAAAAJ&hl=en) and [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/).
+**Wenhao Wu (吴文灏🇨🇳)** obtained Ph.D. degree from the School of Computer Science at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). I have a close collaboration with Department of Computer Vision Technology ([VIS](https://vis.baidu.com/)) at Baidu led by [Dr. Jingdong Wang (IEEE Fellow)](https://jingdongwang2017.github.io/). I received my M.S.E degree from Multimedia Laboratory ([MMLab@SIAT](http://mmlab.siat.ac.cn/)), [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Shifeng Chen](https://scholar.google.com/citations?user=6X77S3cAAAAJ&hl=en) and [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/).
 I was also fortunate to intern/RA at MMLab@CUHK, Baidu, iQIYI, SenseTime, Samsung Research and Chinese Academy of Sciences.
 I am honored to be awarded the 11th <a href="http://scholarship.baidu.com/home/index/index#banner"><b>Baidu PhD Fellowship</b></a> (2023).
 
@@ -35,6 +35,7 @@ My research interests broadly lie in the areas of <b>Computer Vision</b> and <b>
 
 
 ### 🔥 News
+- *2025.02*: Pass the PhD thesis defense!
 - *2024.09*: <em> [2/2] <a href="https://github.com/HJYao00/DenseConnector">Dense Connecter</a> and <a href="https://github.com/takomc/amp">AMP</a> are accepted by <strong>NeurIPS</strong> 2024! Dense Connector was cited by Apple MM1.5.
 - *2024.05*: <em> The extension of <a href="https://github.com/whwu95/Cap4Video">Cap4Video</a> <a href="https://github.com/whwu95/Cap4Video"><img src="https://img.shields.io/github/stars/whwu95/Cap4Video?color=success&logo=github"></a> has been accepted by <strong>TPAMI</strong>.</em>
 - *2024.01*: <em> I am honored to receive the 11th🎖<a href="http://scholarship.baidu.com/home/index/index#banner"><font color="Red"><b>Baidu Scholarship</b></font></a>🎖, a prestigious fellowship awarding <strong>200,000 RMB (about $30,000)</strong> to a select <strong>10 PhD students worldwide</strong> in Artificial Intelligence, selected from thousands of applicants.</em>
